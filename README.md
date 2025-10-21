@@ -23,3 +23,6 @@ With this extension `canvas` element can be put with its own subtree elements th
   <button>click me</button>
 </div>
 ```
+
+<img width="1210" height="690" alt="image" src="https://github.com/user-attachments/assets/159860c8-734e-4fbb-bb06-252d50a0d167" />
+
